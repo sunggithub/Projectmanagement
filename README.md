@@ -98,3 +98,4 @@ Month: 5, Day: 27
 Month: 5, Day: 29
 Month: 5, Day: 30
 Month: 5, Day: 31
+Month: 6, Day: 1
