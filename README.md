@@ -104,3 +104,4 @@ Month: 6, Day: 3
 Month: 6, Day: 4
 Month: 6, Day: 5
 Month: 6, Day: 6
+Month: 6, Day: 7
